@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
 <div id="header" align="center">
-<img src="https://vgif.ru/gifs/166/vgif-ru-37752.gif" alt="Котик" width="100"/>
+<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="100"/>
 </div>
 <h3> 🤝🏻 &nbsp; My contacts: </h3>
 
