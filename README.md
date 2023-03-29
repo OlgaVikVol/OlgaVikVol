@@ -1,5 +1,9 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
+<div id="header" align="center">
+<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="500" border-radius="30px"/>
+</div>
+
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
 
 - 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
@@ -30,9 +34,7 @@
   &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
-<div id="header" align="center">
-<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="500" borderRadius="30px"/>
-</div>
+
 <h3> 🤝🏻 &nbsp; My contacts: </h3>
 
 <p align="left">
