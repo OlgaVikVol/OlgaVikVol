@@ -30,9 +30,7 @@
   &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
-   
-    <img src=""https://vgif.ru/gifs/166/vgif-ru-37752.gif" alt="Котик"/>
-                                                         
+<img src=""https://vgif.ru/gifs/166/vgif-ru-37752.gif" alt="Котик"/>                                                      
 <h3> 🤝🏻 &nbsp; My contacts: </h3>
 
 <p align="left">
