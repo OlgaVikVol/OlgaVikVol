@@ -34,7 +34,8 @@
 <div>
    <img src="https://vgif.ru/gifs/166/vgif-ru-37752.gif" alt="cat'
 </div>
-<h3> 🤝🏻 &nbsp;My contacts: </h3>
+                                                              
+<h3> 🤝🏻 &nbsp; My contacts: </h3>
 
 <p align="left">
 <a href="https://t.me/OlgaV_Volobueva"><img alt="Telegram" src="https://img.shields.io/badge/-OlgaVolobueva-blue"></a>
