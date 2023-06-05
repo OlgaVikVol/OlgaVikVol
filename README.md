@@ -1,8 +1,8 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header">
-<div id="gif" align="end">
-<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="300"/>
+<div id="gif" align="center">
+<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="400"/>
 </div>
 
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
