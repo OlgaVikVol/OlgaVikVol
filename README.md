@@ -1,6 +1,7 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header" align="center">
+<div id="gif" align="end">
 <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="300"/>
 </div>
 
@@ -8,7 +9,7 @@
 
 - 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
 - 💼 &nbsp; I am looking for a challenging job.
-
+</div>
 
 ![CodeWars](https://www.codewars.com/users/OlgaVol/badges/large)
 
