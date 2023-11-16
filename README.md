@@ -1,36 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    #header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    #text {
-      width: 60%;
-    }
-    #gif {
-      width: 40%;
-      text-align: right;
-    }
-    #gif img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
 
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header">
-<div id="gif"  style="float: left; width: 60%;">
+<div id="gif"  style="float: right; width: 60%;">
 <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="400"/>
 </div>
 
+<div style="float:left">
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
 
 - 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
@@ -68,5 +44,4 @@
 <a href="https://t.me/OlgaV_Volobueva"><img alt="Telegram" src="https://img.shields.io/badge/-OlgaVolobueva-blue"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-olvik1605@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-</body>
-</html>
+</div>
