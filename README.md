@@ -1,7 +1,7 @@
 
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
-<div id="header" display="flex" align="center">
+<div id="header" style="display: flex; justify-content: space-between; align-items: center;">
    <div id="gif" align="right">
    <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="200" height="200" border="20"/>
    </div>
