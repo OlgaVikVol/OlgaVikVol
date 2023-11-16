@@ -2,15 +2,12 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header" style="display: flex; justify-content: space-between; align-items: center;">
-   <div id="gif" align="right">
-   <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="200" height="200" border="20"/>
-   </div>
-
-   <div align="left">
-   <h3> 👨🏻‍💻 &nbsp;About me</h3>
+    <h3> 👨🏻‍💻 &nbsp;About me</h3>
    
    - 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
    - 💼 &nbsp; I am looking for a challenging job.
+   <div id="gif" align="right">
+   <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="200" height="200"/>
    </div>
 </div>
 
