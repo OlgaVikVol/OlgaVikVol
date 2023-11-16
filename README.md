@@ -2,7 +2,7 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header">
-<div id="gif"  style="float: right; width: 60%;">
+<div id="gif" style="width: 60%; margin-left: auto; margin-right: 0;">
 <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="400"/>
 </div>
 
