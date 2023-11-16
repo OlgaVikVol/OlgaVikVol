@@ -3,7 +3,7 @@
 
 <div id="header" display="flex">
    <div id="gif" align="right">
-   <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="200" height="200" border-radius:"20"/>
+   <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="200" height="200"/>
    </div>
 
    <div align="left">
