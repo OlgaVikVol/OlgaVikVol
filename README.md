@@ -2,15 +2,16 @@
 <h2> Hi there 👋! My name is Olga Volobueva and I am a Frontend developer</h2>
 
 <div id="header">
-<div id="gif" align="right" width="60">
-<img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="400"/>
-</div>
+   <div id="gif" align="right" width="60">
+   <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp" alt="Котик" width="400"/>
+   </div>
 
-<div style="float:left">
-<h3> 👨🏻‍💻 &nbsp;About me</h3>
-
-- 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
-- 💼 &nbsp; I am looking for a challenging job.
+   <div align="left">
+   <h3> 👨🏻‍💻 &nbsp;About me</h3>
+   
+   - 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
+   - 💼 &nbsp; I am looking for a challenging job.
+   </div>
 </div>
 
 ![CodeWars](https://www.codewars.com/users/OlgaVol/badges/large)
@@ -44,4 +45,4 @@
 <a href="https://t.me/OlgaV_Volobueva"><img alt="Telegram" src="https://img.shields.io/badge/-OlgaVolobueva-blue"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-olvik1605@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-</div>
+
